@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-zkyp6d.indocuansite.space/sitemap.xml
